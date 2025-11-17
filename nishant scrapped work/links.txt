@@ -1,0 +1,13 @@
+GENRE_URL = "https://www.goodreads.com/list/show/29013.Best_Biographies_"
+
+GENRE_URL = "https://www.goodreads.com/list/show/1112.Best_Thrillers"
+
+GENRE_URL = "https://www.goodreads.com/list/show/19341.Best_Science_Fiction_Books"
+
+GENRE_URL = "https://www.goodreads.com/list/show/49.Best_Drama_Books"
+
+GENRE_URL = "https://www.goodreads.com/list/show/4098.Best_Indian_Fiction_Books"
+
+GENRE_URL = "https://www.goodreads.com/list/show/4098.Best_Indian_Fiction_Books"
+
+https://www.goodreads.com/list/show/7.Best_Historical_Fiction
